@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7sqKT6Cfv+r1Hi4dw4jqaosp/FbAu3728QurlmcAtZH5F7v2Lra7o3UniZ28NcHznp6UhE27MEwtu7YvqZ9XMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\storm\\source\\repos\\CaseStudyIter1\\Swin-Adventures\\CaseStudyIter1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\storm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\storm\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\storm\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

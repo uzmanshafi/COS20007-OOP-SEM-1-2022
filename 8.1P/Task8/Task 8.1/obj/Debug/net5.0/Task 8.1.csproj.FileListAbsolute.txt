@@ -1,0 +1,16 @@
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\bin\Debug\net5.0\Task 8.1.exe
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\bin\Debug\net5.0\Task 8.1.deps.json
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\bin\Debug\net5.0\Task 8.1.runtimeconfig.json
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\bin\Debug\net5.0\Task 8.1.runtimeconfig.dev.json
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\bin\Debug\net5.0\Task 8.1.dll
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\bin\Debug\net5.0\Task 8.1.pdb
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.csproj.AssemblyReference.cache
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.AssemblyInfo.cs
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.csproj.CoreCompileInputs.cache
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.dll
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\refint\Task 8.1.dll
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.pdb
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\Task 8.1.genruntimeconfig.cache
+C:\Users\storm\Desktop\Uni 2022\Object Oriented Programming - COS20007\Tasks\8.1\Task8\Task 8.1\obj\Debug\net5.0\ref\Task 8.1.dll

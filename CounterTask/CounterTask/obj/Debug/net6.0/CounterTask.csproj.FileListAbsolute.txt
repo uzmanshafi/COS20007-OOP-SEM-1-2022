@@ -1,0 +1,15 @@
+C:\Users\storm\source\repos\CounterTask\CounterTask\bin\Debug\net6.0\CounterTask.exe
+C:\Users\storm\source\repos\CounterTask\CounterTask\bin\Debug\net6.0\CounterTask.deps.json
+C:\Users\storm\source\repos\CounterTask\CounterTask\bin\Debug\net6.0\CounterTask.runtimeconfig.json
+C:\Users\storm\source\repos\CounterTask\CounterTask\bin\Debug\net6.0\CounterTask.dll
+C:\Users\storm\source\repos\CounterTask\CounterTask\bin\Debug\net6.0\CounterTask.pdb
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.AssemblyInfoInputs.cache
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.AssemblyInfo.cs
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.dll
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\refint\CounterTask.dll
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.pdb
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\CounterTask.genruntimeconfig.cache
+C:\Users\storm\source\repos\CounterTask\CounterTask\obj\Debug\net6.0\ref\CounterTask.dll

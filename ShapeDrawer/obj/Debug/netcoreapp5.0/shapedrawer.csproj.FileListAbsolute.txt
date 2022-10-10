@@ -1,0 +1,16 @@
+C:\Users\storm\Desktop\ShapeDrawer\bin\Debug\netcoreapp5.0\shapedrawer.exe
+C:\Users\storm\Desktop\ShapeDrawer\bin\Debug\netcoreapp5.0\shapedrawer.deps.json
+C:\Users\storm\Desktop\ShapeDrawer\bin\Debug\netcoreapp5.0\shapedrawer.runtimeconfig.json
+C:\Users\storm\Desktop\ShapeDrawer\bin\Debug\netcoreapp5.0\shapedrawer.runtimeconfig.dev.json
+C:\Users\storm\Desktop\ShapeDrawer\bin\Debug\netcoreapp5.0\shapedrawer.dll
+C:\Users\storm\Desktop\ShapeDrawer\bin\Debug\netcoreapp5.0\shapedrawer.pdb
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.csproj.AssemblyReference.cache
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.AssemblyInfoInputs.cache
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.AssemblyInfo.cs
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.csproj.CoreCompileInputs.cache
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.dll
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\refint\shapedrawer.dll
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.pdb
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\shapedrawer.genruntimeconfig.cache
+C:\Users\storm\Desktop\ShapeDrawer\obj\Debug\netcoreapp5.0\ref\shapedrawer.dll
